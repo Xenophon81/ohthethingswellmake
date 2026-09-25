@@ -1,25 +1,25 @@
 {
-  "dependencies": {
-    "bootstrap": "^5.3.8"
-  },
   "name": "ohthethingswellmake",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/Xenophon81/ohthethingswellmake#readme",
+  "bugs": {
+    "url": "https://github.com/Xenophon81/ohthethingswellmake/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Xenophon81/ohthethingswellmake.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Xenophon81/ohthethingswellmake/issues"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Xenophon81/ohthethingswellmake#readme"
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {}
 }
